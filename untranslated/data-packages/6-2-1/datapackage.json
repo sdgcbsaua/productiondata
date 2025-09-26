@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "ElementName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Households using hand-washing facility",
+                "Households not using hand-washing facility",
+                "Not Reported",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
