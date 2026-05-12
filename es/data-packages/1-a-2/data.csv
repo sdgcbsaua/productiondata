@@ -1,25 +1,25 @@
-Year,Value
-2015,28
-2015,2
-2015,0
-2016,2
-2016,29
-2016,0
-2017,28
-2017,2
-2017,0
-2018,29
-2018,2
-2018,0
-2019,30
-2019,2
-2019,0
-2020,0
-2020,2
-2020,32
-2021,2
-2021,35
-2021,0
-2022,35
-2022,0
-2022,2
+Year,Series,Value
+2015,Education,2
+2016,Education,2
+2017,Education,2
+2018,Education,2
+2019,Education,2
+2020,Education,2
+2021,Education,2
+2022,Education,2
+2015,Health,28
+2016,Health,29
+2017,Health,28
+2018,Health,29
+2019,Health,30
+2020,Health,32
+2021,Health,35
+2022,Health,35
+2015,Social Protection,0
+2016,Social Protection,0
+2017,Social Protection,0
+2018,Social Protection,0
+2019,Social Protection,0
+2020,Social Protection,0
+2021,Social Protection,0
+2022,Social Protection,0
